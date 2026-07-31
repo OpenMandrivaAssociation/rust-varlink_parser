@@ -5,8 +5,8 @@
 %global crate varlink_parser
 
 Name:           rust-%{crate}
-Version:        4.0.3
-Release:        2%{?dist}
+Version:        6.0.0
+Release:        1%{?dist}
 Summary:        Crate for parsing varlink interface definition files
 
 # Upstream license specification: MIT/Apache-2.0
